@@ -2,9 +2,9 @@
 
 
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [my website](http://romsdesigns.com)
+* 🖥️  See my portfolio at [my website](https://digitalseamx.com)
 * ✉️  You can contact me at [rdelagarzabrs@gmail.com](mailto:rdelagarzabrs@gmail.com)
-* 🚀  I'm currently working on [My Web Design/Development Agency](http://romsdesigns.com)
+* 🚀  I'm currently working on [My Web Design/Development Agency](https://digitalseamx.com)
 * 🧠  I'm learning Front-End Technologies (React, NodeJS ThreeJS, Bootstrap, Tailwind)
 * 🤝  I'm open to collaborating on Graphic Design or Web Development Proyects and Non-Profits
 * ⚡  Quick Learner
